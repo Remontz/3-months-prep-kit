@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../CodingDojo/Web Fundamentals/JS/Practice"
+		},
+		{
+			"path": "../../../CodingDojo/MERN/Pirate"
+		}
+	],
+	"settings": {}
+}
