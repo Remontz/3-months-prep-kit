@@ -1,14 +1,17 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../../CodingDojo/Web Fundamentals/JS/Practice"
-		},
-		{
-			"path": "../../../CodingDojo/MERN/Pirate"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../../CodingDojo/Web Fundamentals/JS/Practice"
+    },
+    {
+      "path": "../../../CodingDojo/MERN/Pirate"
+    },
+    {
+      "path": "../../../CodingDojo/Projects_Algorithms/Algorithm Concepts/Arrays"
+    }
+  ],
+  "settings": {}
 }
