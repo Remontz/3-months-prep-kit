@@ -4,13 +4,13 @@
       "path": "."
     },
     {
-      "path": "../../../CodingDojo/Web Fundamentals/JS/Practice"
-    },
-    {
-      "path": "../../../CodingDojo/MERN/Pirate"
-    },
-    {
       "path": "../../../CodingDojo/Projects_Algorithms/Algorithm Concepts/Arrays"
+    },
+    {
+      "path": "../Week 2"
+    },
+    {
+      "path": "../../../CodingDojo/Projects_Algorithms/Algorithm Concepts/Fundamentals"
     }
   ],
   "settings": {}
